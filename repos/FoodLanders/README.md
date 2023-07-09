@@ -1,2 +1,0 @@
-# FoodLanders
-FoodLanders food blog
